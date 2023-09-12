@@ -1,10 +1,10 @@
 . As 4ªs e 5ªs que possuem exateamente essas distacias sao chamadas de JUSTAS:
     . exemplo:
         . Dó - Fá ascendente  --> 4ª JUSTA
-          2 tons e meio
+          2 tons e 1/2
 
         . Dó - Sol ascendente --> 5ª JUSTA
-          3 tons e meio 
+          3 tons e 1/2
 
 . EXEÇOES:
     . Fá - Si ascendente --> 4ª AUMENTADA (meio tom acima da 4ª justa)
